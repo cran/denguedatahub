@@ -3,7 +3,7 @@
 \docType{data}
 \name{china_annual_data}
 \alias{china_annual_data}
-\title{Dengue related data in china}
+\title{Dengue related data in China}
 \format{
 A tibble with 16 rows and 5 variables:
 \describe{
