@@ -1,6 +1,6 @@
 Package: denguedatahub
 Title: A Tidy Format Datasets of Dengue by Country
-Version: 2.1.1
+Version: 3.1.0
 Authors@R: 
     person("Thiyanga S.", "Talagala", , "ttalagala@sjp.ac.lk", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0656-9789"))
@@ -9,18 +9,18 @@ License: GPL-3
 URL: https://denguedatahub.netlify.app/
 BugReports: https://github.com/thiyangt/denguedatahub/issues
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Imports: dplyr, tibble, tidyr, rvest, stringr, lifecycle, magrittr,
         here, utils, purrr, xml2, tabulapdf, rlang (>= 0.4.11)
 LazyData: true
 Suggests: roxygen2, tsibble
 SystemRequirements: Java (>= 7.0): openjdk-11-jdk (deb),
         java-11-openjdk.x86_64 (rpm), openjdk@11 (brew)
-Depends: R (>= 3.5.0)
+Depends: R (>= 4.1.0)
 NeedsCompilation: no
-Packaged: 2024-09-22 08:35:25 UTC; DELL
-Author: Thiyanga S. Talagala [aut, cre]
-    (<https://orcid.org/0000-0002-0656-9789>)
+Packaged: 2025-06-23 11:37:14 UTC; DELL
+Author: Thiyanga S. Talagala [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-0656-9789>)
 Maintainer: Thiyanga S. Talagala <ttalagala@sjp.ac.lk>
 Repository: CRAN
-Date/Publication: 2024-09-22 08:50:02 UTC
+Date/Publication: 2025-06-23 15:50:19 UTC
