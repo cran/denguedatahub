@@ -1,4 +1,4 @@
-e9d2a2a62e19ac498d3a2d2ec17beb46 *DESCRIPTION
+c888a201f6b209b1808fa36d98600af5 *DESCRIPTION
 5158cc05c0cdc36350287e847827dcbe *NAMESPACE
 3c30944dda275bcf2dbc35a12ce849aa *R/americas_annual_data.R
 fe96f0dd8fe26a8a08f206ae8d754c2e *R/cdc_casesby_week.R
@@ -29,7 +29,7 @@ fcdde771b72b117e2e4e265c1124c080 *R/sl_sites.R
 efdb0d8aa53f5105fb69adb707553899 *R/srilanka_weekly_data.R
 d21c8ff7c76a2ef13e94f9e89ee803b7 *R/taiwan_dengue.R
 093aaf12b595e11bed3f45c4c1e2d855 *R/world_annual.R
-b9991123eba2a102e4e2de543d69854d *README.md
+37d6c9df414601f210db4e288f56acdd *README.md
 50f6e73c81eb8a86262636b78c4be8f5 *data/americas_annual_data.rda
 bda3ae7aa1ae3031ecc4a91a656a336a *data/cdc_casesby_week.rda
 1ae7a5d64496bb481de0b0eee506ea28 *data/cdc_dengue_agesex.rda
@@ -48,7 +48,7 @@ b039eebb5797372f0fc5df86d21e0314 *data/sl_annual.rda
 be975ed37e5e7e7ca89cf4b8c7cb6f78 *data/sl_dengue_serotype.rda
 117bef3835cd9a7c8357eaba7710b159 *data/sl_province_districts.rda
 ce58cf892698b45ab533187957feb1b6 *data/sl_sites.rda
-4cefc7819a806142a2e0fd5c534c0f15 *data/srilanka_weekly_data.rda
+994cec74e9e74e050e0d34417462f302 *data/srilanka_weekly_data.rda
 cccbfd9660229c6cfcbe900098a23b62 *data/taiwan_dengue.rda
 34e58ceaa59b95c66e852665b82a0ddc *data/world_annual.rda
 3d2f3ee127433d7f587cfbcfba342a5a *man/americas_annual_data.Rd
@@ -64,9 +64,12 @@ b587dbd26ca3c34de470fea8fc35df63 *man/convert_slwer_to_tidy.Rd
 8f1fc6c4d262dcf1541282ae5470b17f *man/convert_srilanka_wer_to_tidy.Rd
 47cb12c5a8e0b39d1ea770ce336e5854 *man/download_pdfwer_srilanka.Rd
 789377f3ab54eb87d4441b0dd3099f22 *man/figures/README-unnamed-chunk-2-1.png
-b6efee142288b8bec3c07be5928f0d4a *man/figures/README-unnamed-chunk-2-2.png
+0d2d85964ced1eee2005acbf2fdb0902 *man/figures/README-unnamed-chunk-2-2.png
 b6efee142288b8bec3c07be5928f0d4a *man/figures/README-unnamed-chunk-2-3.png
 b6efee142288b8bec3c07be5928f0d4a *man/figures/README-unnamed-chunk-2-4.png
+4b8230d3d48a02df65e980ef79c0931d *man/figures/README-unnamed-chunk-3-1.png
+789377f3ab54eb87d4441b0dd3099f22 *man/figures/README-unnamed-chunk-4-1.png
+0d2d85964ced1eee2005acbf2fdb0902 *man/figures/README-unnamed-chunk-4-2.png
 dd7cb09f8e554bc961a7c9d3f6f3a408 *man/filter_year_wer.Rd
 372b2f2165bccf2f6ce8d2568b3ae742 *man/get_addresses.Rd
 ddda664047ecc15fa51565687871611d *man/get_pdflinks_srilanka.Rd

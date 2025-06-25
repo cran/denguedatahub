@@ -1,6 +1,6 @@
 Package: denguedatahub
 Title: A Tidy Format Datasets of Dengue by Country
-Version: 3.1.0
+Version: 3.2.0
 Authors@R: 
     person("Thiyanga S.", "Talagala", , "ttalagala@sjp.ac.lk", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0656-9789"))
@@ -18,9 +18,9 @@ SystemRequirements: Java (>= 7.0): openjdk-11-jdk (deb),
         java-11-openjdk.x86_64 (rpm), openjdk@11 (brew)
 Depends: R (>= 4.1.0)
 NeedsCompilation: no
-Packaged: 2025-06-23 11:37:14 UTC; DELL
+Packaged: 2025-06-25 14:00:03 UTC; DELL
 Author: Thiyanga S. Talagala [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-0656-9789>)
 Maintainer: Thiyanga S. Talagala <ttalagala@sjp.ac.lk>
 Repository: CRAN
-Date/Publication: 2025-06-23 15:50:19 UTC
+Date/Publication: 2025-06-25 14:50:02 UTC
